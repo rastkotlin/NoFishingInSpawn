@@ -1,0 +1,5 @@
+name: NoFishingInSpawn
+version: '1.0.0'
+main: hitachi.nofishingInspawn.Main
+api-version: '1.16'
+load: STARTUP
